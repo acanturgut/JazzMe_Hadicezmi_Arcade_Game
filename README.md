@@ -1,2 +1,4 @@
-# JazzMe_hadicezmi
-COMP 302 - Software Engineering Project
+Hadi Cezmi Game
+
+Hadi Cezmi game is a 2D arcade game which enables two players to play in competing manner. It also provides an option for a single player to play the game against a dummy artificial intelligence. There are four levels in the game such that the difficulty of the game gradually increases from the first level to the fourth level.
+Hadi Cezmi game is composed of two modes which are edit mode and running mode. Players are able to switch between these two modes with and without closing and restarting the game. In edit mode, players design game board by adding gizmos, rotating and/or deleting them and edit/change settings of game board size, control buttons, as well as audio settings. Furthermore, the game supports save and load the game configuration to and from a XML file. In running mode, player(s) play the game. Comprehensive description of game rules and installation information are stated in the user manual.
